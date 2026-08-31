@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for dental practices and clinics. The design features a navy + ocean blue palette with a coral accent, clean medical typography, and a trustworthy, professional atmosphere that communicates care and expertise.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
